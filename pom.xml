@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Chapter6</artifactId>
-
+<!--引入extentreports的三个依赖包-->
     <dependencies>
         <dependency>
             <groupId>com.relevantcodes</groupId>
